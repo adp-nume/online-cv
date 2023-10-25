@@ -56,18 +56,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Detail-oriented, Organized and Versatile software engineer excelling in both startup and corporate environments, 
+      including significant roles at Amazon and Ola-Cabs. Demonstrated expertise in leading-edge solutions, 
+      particularly blockchain and large-scale data systems, 
+      leveraging technical skills to drive business growth and operational efficiency.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master of Science: Machine Learning and Artificial Intelligence
+        university: Indian Institute of Information Technology - Bangalore
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,9 +89,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Staff Software Engineer
+        time: March 2022 - Present
+        company: Nume Crypto, Bangalore / San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,13 +108,14 @@ experiences:
         time: 2014 - 2015
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Pioneering Foundation Work & Microservices Architecture:
+                - Contributed fundamentally to establishing scalable infra and company wise best practices for long term growth
+                - Led development of resilient microservices framework, streamlining web assembly and bolstering system efficiency.
+            Blockchain & Financial Transaction Innovations:
+                - Engineered and executed comprehensive backend protocol and associated APIs using Golang, establishing robust platform for efficient and secure financial transactions.
+                - Integrated an Ethereum-addressable mechanism, enhancing transaction security and integrity across the platform.
+                - Devised and developed an exhaustive Settlement processing workflow within secure enclave for layer 2 protocol, ensuring secure transaction processing.
+                - Constructed well-thought governance model for a secure enclave, streamlining the code change approval processes, thereby reinforcing system trust and security standards.
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
